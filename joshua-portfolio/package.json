@@ -1,0 +1,16 @@
+{
+  "name": "joshua-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio application for Joshua Kasani, showcasing projects and skills.",
+  "main": "src/assets/js/main.js",
+  "scripts": {
+    "start": "live-server src/pages",
+    "build": "echo 'No build process required.'"
+  },
+  "author": "Joshua Kasani",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
